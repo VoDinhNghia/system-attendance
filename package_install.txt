@@ -7,3 +7,5 @@ pip install black (format code)
 pip install django-rest-swagger
 pip install -U drf-yasg (swagger)
 pip install -U drf-yasg[validation] (swagger)
+pip install crypto
+pip install requests
