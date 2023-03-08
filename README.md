@@ -16,6 +16,10 @@ Attendance service for student management project
 ```
    python manage.py startapp app
 ```
+### Swagger api
+``` 
+ http://127.0.0.1:3001/
+```
 
 ### Start project
 
