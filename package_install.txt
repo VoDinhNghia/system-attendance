@@ -9,3 +9,4 @@ pip install -U drf-yasg (swagger)
 pip install -U drf-yasg[validation] (swagger)
 pip install crypto
 pip install requests
+pip install opencv-python
